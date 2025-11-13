@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-format-imports",
+  "version": "1.0.2",
+  "description": "format imports eslint plugin",
+  "main": "./src/index.js",
+  "author": "yxxr1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yxxr1/eslint-plugin-format-imports"
+  },
+  "license": "ISC"
+}
