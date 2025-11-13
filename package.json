@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-format-imports",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "format imports eslint plugin",
   "main": "./src/index.js",
   "author": "yxxr1",
